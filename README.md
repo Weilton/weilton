@@ -4,6 +4,7 @@ I'm a Data Engineer, I’m currently working on projects to create a data lake o
 
 ### Some technologies i'm working
 Program Language: Python/PySpark
+
 AWS: S3, Glue, Athena and CloudFormation
 
 AZURE: Loading...
