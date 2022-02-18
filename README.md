@@ -7,6 +7,8 @@ AWS: S3, Glue, Athena and CloudFormation
 
 AZURE: Loading...
 
+Another tools: Docker, Nifi and Kafka
+
 <!--
 **Weilton/weilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
