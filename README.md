@@ -2,11 +2,13 @@
 
 I'm a Data Engineer, I’m currently working on projects to create a data lake on cloud
 
-### Some technologies that i'm learning
+### Some technologies i'm working
+Program Language: Python/PySpark
 AWS: S3, Glue, Athena and CloudFormation
 
 AZURE: Loading...
 
+### Some technologies i'm studing
 Another tools: Docker, Nifi and Kafka
 
 <!--
