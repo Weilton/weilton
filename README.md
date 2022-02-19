@@ -12,6 +12,8 @@ AZURE: Loading...
 ### Some technologies i'm studing
 Another tools: Docker, Nifi and Kafka
 
+LinkedIn: https://www.linkedin.com/in/weilton-gomes-38758b30/?locale=en_US
+
 <!--
 **Weilton/weilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
