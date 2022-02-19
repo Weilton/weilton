@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, welcome to my GitHub
 
 I'm a Data Engineer, I’m currently working on projects to create a data lake on cloud
 
