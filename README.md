@@ -1,16 +1,15 @@
 ### Hi there 👋, welcome to my GitHub
 
-I'm a Data Engineer, I’m currently working on projects to create a data lake on cloud
+I'm a Data Engineer, I’m currently working on projects to create a datalake on cloud
 
 ### Some technologies i'm working
 Program Language: Python/PySpark
 
-AWS: S3, Glue, Athena and CloudFormation
-
-AZURE: Loading...
-
-### Some technologies i'm studing
-Another tools: Docker, Nifi and Kafka
+Background:
+AWS S3, Glue, Athena and Cloudwatch
+Databricks
+Git/GitHub
+Terraform
 
 LinkedIn: https://www.linkedin.com/in/weilton-gomes-38758b30/?locale=en_US
 
