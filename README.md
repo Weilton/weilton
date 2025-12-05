@@ -1,12 +1,14 @@
 ### Hi there 👋, welcome to my GitHub
 
-I'm a Data Engineer, I’m currently working on projects to create a datalake on cloud
+I’m a Data Engineer experienced in AWS, Databricks, PySpark, Terraform, and CI/CD, focused on building scalable data pipelines, modern data architectures, and cloud-native automation.
 
-### Some technologies i'm working
-Program Language: Python/PySpark
+I’m also diving deep into Generative AI, especially RAG (Retrieval-Augmented Generation), LLMs, vector databases, and intelligent data workflows. Here you'll find notebooks and experiments where I share what I'm currently learning and building in this space.
+
+Always exploring, improving, and creating impactful solutionscloud
 
 Background:
-AWS S3, Glue, Athena and Cloudwatch
+PySpark, Python, SQL
+AWS S3, Glue, Athena, Cloudwatch
 Databricks
 Git/GitHub
 Terraform
